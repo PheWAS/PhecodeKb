@@ -1,0 +1,447 @@
+﻿phecode,phecode_string,htn_hotn_kb,htn_hotn_p,htn_hotn_l,htn_hotn_v,htn_kb,htn_p,htn_l,htn_v,hotn_kb,hotn_p,hotn_l,hotn_v
+ID_001,Salmonella,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_002,Staphylococcus,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_002.1,Staphylococcus aureus,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+ID_003,Escherichia coli,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_004,Streptococcus,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_004.1,Streptococcus pneumoniae,1,1,1,1,-1,-1,-1,-1,3,3,3,3
+ID_004.2,Group A Streptococcus,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+ID_005,Mycobacteria,1,1,1,1,-1,-1,-1,-1,3,3,3,3
+ID_005.1,Mycobacterium tuberculosis,4,1,0,4,3,-1,-1,3,3,3,-1,3
+ID_005.2,Disseminated mycobacterium avium-intracellulare complex (DMAC)*,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_006.1,Neisseria meningitidis,1,1,1,1,-1,-1,-1,-1,3,3,3,3
+ID_009,Pseudomonas,1,1,1,0,-1,-1,-1,-1,3,3,3,-1
+ID_011,Klebsiella,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+ID_013,Mycoplasma,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_015,Clostridium,4,0,0,4,3,-1,-1,3,3,-1,-1,3
+ID_015.2,Clostridium difficile,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+ID_015.3,Clostridium botulinum,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+ID_016.2,Chlamydia psittaci,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_017,Bartonellosis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_019.1,Treponema pallidum [syphilis],4,0,1,4,3,-1,-1,3,3,-1,3,3
+ID_020.1,Lyme disease,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+ID_021,Rickettsia,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_021.2,Spotted fever,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_025,Enterococcus,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+ID_026,Actinomyces and Nocardia,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_027,Shigella,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_028,Bacillus,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_029,Leptospira,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_030,Campylobacter,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_031,Listeria,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_032,Yersinia,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_033,Francisella,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_034,Brucella,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_040,Legionella,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_042,Tropheryma,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_052.4,Infectious mononucleosis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_052.5,Cytomegalovirus [CMV],1,1,0,1,-1,-1,-1,-1,3,3,-1,3
+ID_054,Hepatovirus,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+ID_057.1,Human immunodeficiency virus,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+ID_061,Influenza virus,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_070,Candidiasis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_070.4,Disseminated candidiasis,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+ID_071,Coccidioides,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_072,Histoplasmosis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_073,Blastomyces,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_074,Aspergillosis,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+ID_075,Cryptococcosis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_076,Pneumocystosis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_084,Parasites,1,1,0,1,-1,-1,-1,-1,3,3,-1,3
+ID_084.1,Amebiasis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_084.2,Plasmodium [Malaria],1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_084.5,Toxoplasmosis,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+ID_088,Sexually transmitted disease,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+ID_089.1,Bacterial infections,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+ID_089.2,Viral infections,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+ID_089.3,Fungal infections,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+ID_091,Gangrene,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+ID_092.1,Systemic inflammatory response syndrome,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+ID_092.2,Sepsis,1,1,1,0,-1,-1,-1,-1,3,3,3,-1
+ID_092.3,Meningococcemia,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+ID_092.5,Toxic shock syndrome,1,1,1,1,-1,-1,-1,-1,3,3,3,3
+ID_097.1,Methicillin resistant Staphylococcus aureus,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CA_101.61,Malignant neoplasm of the liver,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CA_101.62,Malignant neoplasm of the intrahepatic bile ducts,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CA_101.8,Malignant neoplasm of the pancreas,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CA_108.41,"Malignant neoplasm of kidney, except pelvis",3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+CA_109.3,Malignant neoplasm of brain,4,0,0,4,3,-1,-1,3,3,-1,-1,3
+CA_109.4,Malignant neoplasm of spinal cord,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CA_110.4,Malignant neoplasm of the pituitary gland and craniopharyngeal duct,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+CA_114.1,Malignant neuroendocrine tumors,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CA_114.2,Benign neuroendocrine tumors,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CA_114.4,Carcinoid tumors,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CA_114.42,Carcinoid tumor of the bronchus and lung,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CA_114.6,Pheochromocytoma,4,0,3,4,3,-1,3,3,3,-1,-1,3
+CA_116,Secondary malignant neoplasm,1,1,0,1,-1,-1,-1,-1,3,3,-1,3
+CA_120,Hemo onc - by cell of origin,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+CA_120.1,Myeloid,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CA_120.13,Erythroid,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+CA_120.2,Lymphoid,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CA_120.21,Mature B-cell,4,4,0,1,3,3,-1,-1,3,3,-1,3
+CA_120.22,Mature T-Cell,1,1,0,1,-1,-1,-1,-1,3,3,-1,3
+CA_121,Leukemia,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CA_121.1,Acute leukemia,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+CA_122,Lymphoma,1,1,0,1,-1,-1,-1,-1,3,3,-1,3
+CA_122.1,Hodgkin lymphoma,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CA_122.2,Non-Hodgkin lymphoma,4,0,1,4,3,-1,-1,3,3,-1,3,3
+CA_122.22,Diffuse large B-cell lymphoma*,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CA_122.24,T-cell lymphoma,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CA_123.1,Multiple myeloma,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CA_124.3,Polycythemia vera,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+CA_124.7,Chronic myeloproliferative disease*,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+CA_125,"Other malignant neoplasms of lymphoid, hematopoietic and related tissue",1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CA_130,"Cancer (solid tumor, excluding BCC)",4,4,0,0,3,3,-1,-1,3,3,-1,-1
+CA_132,Sequelae of cancer,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CA_136.61,Benign neoplasm of the liver*,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CA_137.51,Benign neoplasm of the heart,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CA_148.3,Benign neoplasm of brain,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+CA_149.4,Benign neoplasm of the pituitary gland and craniopharyngeal duct,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+BI_160.1,Iron deficiency anemia,4,0,0,4,3,-1,-1,3,3,-1,-1,3
+BI_160.2,Megaloblastic anemia,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+BI_160.21,Vitamin B12 deficiency anemia due to intrinsic factor deficiency [Pernicious anemia],4,0,0,4,3,-1,-1,3,3,-1,-1,3
+BI_160.22,Folate-deficiency anemia,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+BI_161.2,Extrinsic (acquired) hemolytic anemias,4,0,0,4,3,-1,-1,3,3,-1,-1,3
+BI_161.21,Autoimmune hemolytic anemias [AIHA],4,0,0,4,3,-1,-1,3,3,-1,-1,3
+BI_162,Aplastic anemia,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+BI_164,Anemia,4,4,3,0,3,3,3,-1,3,3,-1,-1
+BI_164.1,Microcytic anemia,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+BI_164.2,Macrocytic anemia,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+BI_164.6,Anemia secondary to chronic diseases and conditions,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+BI_164.7,Myelophthisis,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+BI_164.8,Sideroblastic anemia,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+BI_168.1,Hypo-coagulability,4,4,1,0,3,3,-1,-1,3,3,3,-1
+BI_168.22,Disseminated intravascular coagulation [Defibrination syndrome],1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+BI_169.1,Thrombocytopenia,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+BI_169.11,Immune thrombocytopenic purpura [ITP],1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+BI_170.1,Neutropenia,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+BI_175,Polycythemias,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+BI_179,Immunodeficiencies,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+BI_180.33,Macroglobulinemia [Waldenstrom macroglobulinemia],1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+BI_180.4,Cryoglobulinemia*,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+BI_181,Autoimmune disease,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+EM_200.1,Hypothyroidism,4,4,4,1,3,3,3,-1,3,3,3,3
+EM_200.12,Hypothyroidism (not specified as secondary),4,0,0,4,3,-1,-1,3,3,-1,-1,3
+EM_200.16,Myxedema*,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+EM_200.21,Diffuse goiter,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+EM_200.3,Thyrotoxicosis [hyperthyroidism],4,0,4,1,3,-1,3,-1,3,-1,3,3
+EM_200.31,Graves' disease [Toxic diffuse goiter],3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+EM_200.43,Subacute thyroiditis,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+EM_202,Diabetes mellitus,4,0,4,0,3,-1,3,-1,3,-1,3,-1
+EM_202.1,Type 1 diabetes,4,0,4,4,3,-1,3,3,3,-1,3,3
+EM_202.2,Type 2 diabetes,4,0,4,4,3,-1,3,3,3,-1,3,3
+EM_202.31,Diabetes mellitus due to underlying condition*,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+EM_202.32,Drug or chemical induced diabetes mellitus*,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+EM_202.4,Other specified diabetes*,4,0,1,4,3,-1,-1,3,3,-1,3,3
+EM_203,Metabolic syndrome [Dysmetabolic syndrome X],3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+EM_204.3,Hypoglycemia,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+EM_206,Disorders of pancreatic internal secretion (excl. DM),1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+EM_208.2,Hyperparathyroidism,4,0,3,4,3,-1,3,3,3,-1,-1,3
+EM_209.11,"Tall stature, acromegaly and gigantism",3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+EM_209.14,Pituitary-dependent Cushing's disease*,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+EM_209.2,Hypopituitarism,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+EM_209.4,Diabetes insipidus,1,1,0,1,-1,-1,-1,-1,3,3,-1,3
+EM_211.1,Adrenal hyperfunction,3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+EM_211.11,Hyperaldosteronism,3,0,3,3,3,-1,3,3,-1,-1,-1,-1
+EM_211.13,Cushing's syndrome,3,3,3,3,3,3,3,3,-1,-1,-1,-1
+EM_211.131,Drug-induced Cushing's syndrome*,3,0,3,3,3,-1,3,3,-1,-1,-1,-1
+EM_211.133,Ectopic ACTH syndrome*,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+EM_211.2,Adrenocortical insufficiency,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+EM_211.22,Drug-induced adrenocortical insufficiency*,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+EM_211.23,Postprocedural adrenocortical (-medullary) hypofunction*,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+EM_232.2,Vitamin B group deficiency,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+EM_232.21,Thiamine deficiency [Vitamin B1],1,1,1,0,-1,-1,-1,-1,3,3,3,-1
+EM_232.27,Vitamin B12 deficiency,4,4,0,3,3,3,-1,3,3,3,-1,-1
+EM_232.29,Folate deficiency [Vitamin B9],3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+EM_232.3,Vitamin C deficiency [Ascorbic acid],1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+EM_236.1,Obesity,3,0,3,3,3,-1,3,3,-1,-1,-1,-1
+EM_236.11,Morbid obesity,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+EM_238.4,Hypervitaminosis D,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+EM_247.88,Iron deficiency,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+EM_249,Amyloidosis,4,0,1,4,3,-1,-1,3,3,-1,3,3
+EM_256.72,Hypovolemia,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+MB_280.1,Alcohol use disorders,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+MB_280.11,Alcohol abuse and dependence,3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+MB_280.5,Stimulant use disorders,3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+MB_280.8,Psychoactive substance abuse,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+MB_286.11,Bipolar I disorder,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+MB_286.2,Major depressive disorder,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+MB_288,Anxiety and anxiety disorders,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+MB_288.3,Generalized anxiety disorder,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+MB_288.4,Phobic disorders,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+MB_293.1,Anorexia nervosa,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+MB_308.1,Delirium,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+NS_320.1,Infective meningitis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+NS_320.11,Bacterial meningitis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+NS_320.13,Fungal memingitis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+NS_320.21,Nonpyogenic meningitis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+NS_321.1,Encephalitis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+NS_321.11,Bacterial encephalitis,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+NS_321.13,Toxoplasmosis meningoencephalitis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+NS_322.4,Intracranial and intraspinal abscess,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+NS_324.11,Parkinson's disease (Primary),1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+NS_324.2,Degenerative diseases of the basal ganglia (excluding parkinsonism),1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+NS_326.1,Multiple sclerosis,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+NS_328.12,Vascular dementia,4,0,4,0,3,-1,3,-1,3,-1,3,-1
+NS_328.14,Dementia with Lewy bodies,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+NS_330.1,Epilepsy,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+NS_330.11,Generalized epilepsy,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+NS_330.15,Juvenile myoclonic epilepsy*,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+NS_333.11,Obstructive sleep apnea,3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+NS_337,Polyneuropathies,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+NS_337.21,Guillain-Barre syndrome [Acute infective polyneuritis],1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+NS_342.1,Paraplegia/Diplegia,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+NS_342.2,Quadriplegia,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+NS_343,Disorders of autonomic nervous system,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+NS_343.1,Peripheral autonomic neuropathy,4,0,4,4,3,-1,3,3,3,-1,3,3
+NS_343.6,Multi-system degeneration of the autonomic nervous system*,1,1,1,0,-1,-1,-1,-1,3,3,3,-1
+NS_343.7,Postural orthostatic tachycardia syndrome [POTS]*,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+NS_345,Encephalopathy,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+NS_345.1,Toxic encephalopathy,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+NS_345.3,Hypertensive encephalopathy,3,3,3,3,3,3,3,3,-1,-1,-1,-1
+NS_348.1,Syringomyelia and syringobulbia,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+NS_350.5,Repeated falls*,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+NS_355.1,Coma,1,1,1,0,-1,-1,-1,-1,3,3,3,-1
+SO_374.41,Hypertensive retinopathy,3,3,3,3,3,3,3,3,-1,-1,-1,-1
+CV_400.2,Rheumatic heart disease,4,4,0,1,3,3,-1,-1,3,3,-1,3
+CV_401,Hypertension,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+CV_401.1,Essential hypertension,3,3,3,3,3,3,3,3,-1,-1,-1,-1
+CV_401.2,Hypertensive heart disease,3,3,3,3,3,3,3,3,-1,-1,-1,-1
+CV_401.6,Secondary hypertension,3,3,3,0,3,3,3,-1,-1,-1,-1,-1
+CV_401.61,Renovascular hypertension,3,3,3,0,3,3,3,-1,-1,-1,-1,-1
+CV_401.7,Hypertensive crisis*,3,3,3,3,3,3,3,3,-1,-1,-1,-1
+CV_402,Elevated blood pressure reading without diagnosis of hypertension,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+CV_403,Angina pectoris,3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+CV_403.1,Coronary artery spasm [Coronary vasospasm]*,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CV_404,Ischemic heart disease,4,1,4,0,3,-1,3,-1,3,3,3,-1
+CV_404.1,Myocardial infarction [Heart attack],4,1,4,0,3,-1,3,-1,3,3,3,-1
+CV_404.11,Acute myocardial infarction,4,4,1,1,3,3,-1,-1,3,3,3,3
+CV_404.2,Coronary atherosclerosis [Atherosclerotic heart disease],4,0,0,4,3,-1,-1,3,3,-1,-1,3
+CV_406.1,Pulmonary hypertension,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CV_406.11,Primary pulmonary hypertension,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CV_406.2,Acute pulmonary heart disease,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CV_410.1,Pericarditis,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CV_410.2,Endocarditis,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CV_410.3,Myocarditis,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CV_411.3,Cardiac tamponade,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CV_413.11,Mitral valve insufficiency,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CV_413.13,Mitral valve stenosis,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CV_413.21,Aortic stenosis,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CV_413.22,Aortic insufficiency,4,0,4,1,3,-1,3,-1,3,-1,3,3
+CV_413.31,Tricuspid value stenosis*,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CV_413.32,Tricuspid value insufficiency*,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CV_413.41,Pulmonary valve stenosis,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CV_413.6,Heart valve replaced,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_414,Cardiomyopathy,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CV_414.11,Hypertrophic obstructive cardiomyopathy,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+CV_414.2,Dilated cardiomyopathy*,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_414.3,Alcoholic cardiomyopathy,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CV_414.5,Ischemic cardiomyopathy*,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_414.8,Restrictive cardiomyopathy*,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_414.9,Takotsubo syndrome [Stress cardiomyopathy],1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_416.11,Supraventricular tachycardia,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_416.12,Ventricular tachycardia,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_416.21,Atrial fibrillation,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_416.22,Atrial flutter,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_416.31,Ventricular fibrillation,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_416.4,Heart block,3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+CV_416.412,"Atrioventricular block, second degree",1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_416.413,"Atrioventricular block, complete",1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_416.42,Left bundle branch block,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_417.3,Bradycardia,4,0,4,0,3,-1,3,-1,3,-1,3,-1
+CV_420,Cardiac arrest,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_424,Heart failure,3,3,3,0,3,3,3,-1,-1,-1,-1,-1
+CV_424.1,Left heart failure,4,0,3,4,3,-1,3,3,3,-1,-1,3
+CV_424.2,Systolic heart failure,4,0,4,0,3,-1,3,-1,3,-1,3,-1
+CV_424.3,Diastolic heart failure,3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+CV_424.4,Combined systolic and diastolic heart failure,3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+CV_424.5,Right heart failure*,4,0,0,4,3,-1,-1,3,3,-1,-1,3
+CV_425,Cardiomegaly,3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+CV_426,Complications and ill-defined descriptions of heart disease,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CV_430.1,Nontraumatic subarachnoid hemorrhage,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+CV_430.2,Nontraumatic intracerebral hemorrhage,3,0,3,3,3,-1,3,3,-1,-1,-1,-1
+CV_430.3,Nontraumatic subdural hemorrhage,4,0,0,4,3,-1,-1,3,3,-1,-1,3
+CV_430.4,Nontraumatic extradural hemorrhage,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+CV_431.11,Cerebral infarction [Ischemic stroke],4,0,4,4,3,-1,3,3,3,-1,3,3
+CV_431.12,Hemorrhagic stroke,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+CV_431.2,Transient cerebral ischemic attack [TIA],3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+CV_433.32,Vertebro-basilar artery syndrome,4,0,0,4,3,-1,-1,3,3,-1,-1,3
+CV_436,Atherosclerosis [ASCVD],4,4,0,0,3,3,-1,-1,3,3,-1,-1
+CV_436.1,Atherosclerosis of renal artery,3,0,3,3,3,-1,3,3,-1,-1,-1,-1
+CV_436.2,Atherosclerosis of the extremities,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+CV_436.4,Atheroembolism,4,0,0,4,3,-1,-1,3,3,-1,-1,3
+CV_438.1,Aortic aneurysm and ectasia,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CV_438.14,Ruptured aortic aneurysm,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_438.41,Aortic dissection,4,0,1,4,3,-1,-1,3,3,-1,3,3
+CV_438.7,Aneurysm of heart,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CV_438.8,Rupture of artery,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_440.1,Venous thromboembolism,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+CV_440.11,Deep vein thrombosis [DVT],1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CV_440.13,Phlebitis and thrombophlebitis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CV_440.14,Budd-Chiari syndrome,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CV_440.2,Arterial embolism and thrombosis,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+CV_440.21,Embolism of cerebral or precerebral arteries,4,0,0,4,3,-1,-1,3,3,-1,-1,3
+CV_440.22,Thrombosis of cerebral or precerebral arteries,4,0,0,4,3,-1,-1,3,3,-1,-1,3
+CV_440.3,Pulmonary embolism,1,1,1,1,-1,-1,-1,-1,3,3,3,3
+CV_441.1,Arteriovenous fistula,3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+CV_442,Disease of capillaries,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_444.13,Esophageal varices,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+CV_446,Hypotension,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CV_446.2,Orthostatic hypotension,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CV_447,Nonspecific low blood-pressure reading,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CV_448.9,Peripheral vascular disease NOS [includes PAD],3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+RE_460.3,Pulmonary tuberculosis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+RE_468.1,Viral pneumonia,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+RE_468.2,Bacterial pneumonia,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+RE_468.21,Pneumonia due to Streptococcus pneumoniae,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+RE_468.22,Pneumonia due to Pseudomonas,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+RE_468.5,Pneumonia due to fungus,1,1,0,1,-1,-1,-1,-1,3,3,-1,3
+RE_468.6,Cytomegaloviral pneumonitis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+RE_478,Aspiration pneumonia,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+RE_479.1,Acute respiratory distress syndrome [ARDS]*,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+RE_479.3,Respiratory failure,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+RE_481.1,Pulmonary eosinophilia,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+RE_481.2,Alveolar proteinosis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+RE_484,Pneumothorax and air leak,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+RE_484.1,Spontaneous pneumothorax,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+RE_488.8,Obesity hypoventilation syndrome [OHS],3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+RE_491,Pleurisy,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+GI_510.7,Gastroesophageal laceration-hemorrhage syndrome [Mallory-Weiss tear],1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+GI_513,Peptic ulcer,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_513.2,Gastric ulcer,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+GI_513.3,Duodenal ulcer,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_514.2,Intestinal obstruction,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+GI_516.1,Pyloric stenosis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_517,Vascular disorders of intestine,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+GI_517.1,Acute vascular insufficiency of intestine,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_517.4,Gastrointestinal angiodysplasia,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_522.11,Crohn's disease,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_522.12,Ulcerative colitis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_525,Intestinal malabsorption,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_525.1,Celiac disease,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_526.1,Bacterial enteritis,1,1,0,1,-1,-1,-1,-1,3,3,-1,3
+GI_526.12,Intestinal infection due to C. difficile,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_526.3,Intestinal infection due to protozoa,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_528.2,Vomiting,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+GI_529.1,Diarrhea,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+GI_532.2,Intestinal perforation,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_537.1,Peritonitis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_537.2,Hemoperitoneum,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+GI_537.3,Peritoneal abscess,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_540.2,Acute hepatitis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_540.3,Viral hepatitits,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_542.11,Cirrhosis of liver,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+GI_542.2,Fatty liver disease (FLD),1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_542.3,Hepatic failure,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+GI_542.4,Portal hypertension,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_542.5,Hepatorenal syndrome,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_542.7,Chronic nonalcoholic liver disease,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+GI_542.9,Hepatic necrosis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_546.4,Chronic passive congestion of liver,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_546.5,Peliosis hepatis*,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_550.21,Acute cholecystitis,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+GI_552,Other diseases of biliary tract,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GI_554.11,Acute pancreatitis,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+GI_557,Gastrointestinal hemorrhage,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+GU_580,Glomerular diseases,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+GU_580.1,Acute nephritic syndrome,3,0,3,3,3,-1,3,3,-1,-1,-1,-1
+GU_580.2,Chronic nephritic syndrome,3,3,0,3,3,3,-1,3,-1,-1,-1,-1
+GU_580.5,Morphologic lesions in glomerular diseases,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+GU_580.52,Diffuse membranous glomerulonephritis,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+GU_581,Renal tubulo-interstitial diseases,1,1,0,1,-1,-1,-1,-1,3,3,-1,3
+GU_581.1,Acute pyelonephritis,4,0,0,4,3,-1,-1,3,3,-1,-1,3
+GU_581.13,Renal and perinephric abscess,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GU_581.3,Obstructive and reflux uropathy,3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+GU_581.31,Hydronephrosis,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+GU_581.35,Chronic pyelonephritis,3,3,0,3,3,3,-1,3,-1,-1,-1,-1
+GU_581.4,Drug & heavy metal induced*,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+GU_581.5,Interstial nephritis related to specific systemic diseases,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+GU_582.1,Acute kidney failure,4,0,1,4,3,-1,-1,3,3,-1,3,3
+GU_582.2,Chronic kidney disease,3,3,3,3,3,3,3,3,-1,-1,-1,-1
+GU_582.21,"End stage renal disease [CDK, stage 5]",3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+GU_585,Kidney stone disease,3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+GU_586,Other disorders of the kidney and ureters,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+GU_586.3,Ischemia and infarction of kidney,3,0,3,3,3,-1,3,3,-1,-1,-1,-1
+GU_588.12,Nephrogenic diabetes insipidus,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GU_593.3,Recurrent and persistent hematuria*,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+GU_594.4,Frequency of urination and polyuria,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+GU_599,Other symptoms/disorders or the urinary system,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+GU_614.3,Pelvic inflammatory disease (PID),1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+DE_660.2,Bacterial infection of the skin,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+DE_688.1,Sarcoidosis,4,3,0,1,3,3,-1,-1,3,-1,-1,3
+MS_700.11,Systemic lupus erythematosus [SLE],4,0,1,4,3,-1,-1,3,3,-1,3,3
+MS_700.2,Sicca syndrome [Sjogren syndrome],1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+MS_700.3,Systemic sclerosis,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+MS_701.1,Osteomyelitis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+MS_703.1,Gout,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+MS_704.11,Polyarteritis nodosa,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+MS_704.2,Wegener's granulomatosis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+MS_704.3,Thrombotic microangiopathy,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+MS_704.4,Hypersensitivity angiitis,4,0,3,4,3,-1,3,3,3,-1,-1,3
+MS_704.6,Aortic arch syndrome [Takayasu's disease],3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+MS_704.9,Allergic purpura [Henoch-Schoenlein purpura],1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+MS_705.3,Polymyalgia rheumatica,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+MS_727.3,Osteitis deformans [Paget's disease of bone],3,0,3,3,3,-1,3,3,-1,-1,-1,-1
+CM_750,Congenital malformations of nervous system,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CM_757.21,Congenital hypertrophic pyloric stenosis,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CM_758.22,Cystic liver disease,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+CM_761.13,Cystic kidney disease,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+CM_761.131,Medullary cystic kidney,4,0,0,4,3,-1,-1,3,3,-1,-1,3
+CM_761.211,Congenital hydronephrosis*,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+CM_763.13,Patent ductus arteriosus,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+CM_763.141,Coarctation of aorta,3,0,3,0,3,-1,3,-1,-1,-1,-1,-1
+CM_763.212,Congenital pulmonary valve stenosis,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CM_763.231,Congenital stenosis of aortic valve,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CM_763.232,Congenital insufficiency of aortic valve,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+CM_763.233,Congenital mitral stenosis,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+CM_763.4,Tetralogy of Fallot,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+CM_764.3,Congenital malformations of renal artery,3,0,3,3,3,-1,3,3,-1,-1,-1,-1
+CM_772.2,Congenital hypothyroidism,4,0,0,4,3,-1,-1,3,3,-1,-1,3
+SS_808,Syncope and collapse,1,1,1,0,-1,-1,-1,-1,3,3,3,-1
+SS_810,Shock,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+SS_810.1,Septic shock,1,1,1,0,-1,-1,-1,-1,3,3,3,-1
+SS_810.2,Cardiogenic shock,4,1,0,4,3,-1,-1,3,3,3,-1,3
+SS_810.3,Hypovolemic shock*,4,1,0,4,3,-1,-1,3,3,3,-1,3
+SS_827,Toxicology findings,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+SS_830,Proteinuria,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+SS_832.4,Hemoglobinuria,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+SS_840.1,Food allergy,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+SS_840.9,Anaphylactic reaction,1,1,1,0,-1,-1,-1,-1,3,3,3,-1
+SS_847,Transplated organ,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+SS_847.7,Bone marrow transplant,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+NB_853.22,Neonatal bradycardia,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+NB_853.3,Neonatal hypertension*,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+NB_856.2,Bacterial infection of newborn,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+NB_856.7,Congenital syphilis,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+NB_870,Disturbances of cerebral status of newborn,4,4,0,0,3,3,-1,-1,3,3,-1,-1
+PP_900.1,Spontaneous abortion,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+PP_901,Abnormal products of conception,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+PP_901.1,Ectopic pregnancy,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+PP_907.3,Premature separation of placenta [abruptio placentae],1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+PP_908,"Edema, proteinuria and hypertensive disorders in pregnancy, childbirth and the puerperium",3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+PP_908.1,Preeclampsia and eclampsia,3,3,0,3,3,3,-1,3,-1,-1,-1,-1
+PP_908.2,"Pre-existing hypertension complicating pregnancy, childbirth and the puerperium",3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+PP_908.3,Gestational [pregnancy-induced] hypertension without significant proteinuria,3,3,0,0,3,3,-1,-1,-1,-1,-1,-1
+PP_909,"Diabetes mellitus or abnormal glucose in pregnancy, childbirth, and the puerperium",4,4,0,0,3,3,-1,-1,3,3,-1,-1
+PP_910,Obesity or excessive weight gain in pregnancy,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+PP_913,Obstetrical embolism,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+PP_917,Liver and biliary tract disorders in pregnancy,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+PP_923,Maternal hypotension syndrome,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+PP_945.3,Postpartum hemorrhage,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+PP_949.2,Hypotension syndrome or shock during or following labor and delivery,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
+GE_963.11,Fabry disease*,4,0,1,3,3,-1,-1,3,3,-1,3,-1
+GE_966.23,Acute intermittent (hepatic) porphyria*,4,0,1,4,3,-1,-1,3,3,-1,3,3
+GE_970.11,Sickle cell anemia (Hb-SS),3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+GE_970.65,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli]*,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+GE_971.11,Hereditary factor VIII deficiency [Hemophilia A],4,0,0,4,3,-1,-1,3,3,-1,-1,3
+GE_971.12,Hereditary factor IX disorder [Hemophilia B],4,0,0,4,3,-1,-1,3,3,-1,-1,3
+GE_971.14,Von Willebrand's disease,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GE_972.1,Hereditary neuropathy,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+GE_972.5,Familial dysautonomia [Riley-Day]*,1,0,1,0,-1,-1,-1,-1,3,-1,3,-1
+GE_976.2,Bartter's syndrome,1,0,1,1,-1,-1,-1,-1,3,-1,3,3
+GE_976.4,Alport syndrome*,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+GE_976.5,Polycystic kidney disease,3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+GE_976.51,Autosomal recessive polycystic kidney disease (ARPKD),3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+GE_976.52,Autosomal dominant polycystic kidney disease (ADPKD),3,0,0,3,3,-1,-1,3,-1,-1,-1,-1
+GE_979.2,Cystic fibrosis,1,0,0,1,-1,-1,-1,-1,3,-1,-1,3
+GE_981.5,Familial Mediterranean fever,1,1,0,0,-1,-1,-1,-1,3,3,-1,-1
