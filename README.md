@@ -71,3 +71,89 @@ Source term to phecode mapping types
 |3d|1|1|>1|source is a subset of phecode|
 |3b|1|>1|1|source is a subset of phecode|
 |3c|1|>1|>1|source is a subset of pheecode|
+
+
+III – htn_lit and hotn_lit tabs (literature association detail)
+
+For each condition, the literature section structures the associations by classification, then by direction of the association (from condition to phecode (cn_pc), or the reverse (pc_cn)), and then by association type code.
+
+|Condition	|Classification # |	Short name	| Name|
+|-----------|----------------|------------|-----|
+|Hypertension	|1001|	hypertension	|Hypertension|
+|Hypertension	|1002	|ish|	Isolated Systolic Hypertension|
+|Hypotension	|1003	|oh	|Orthostatic hypotension|
+|Hypotension|	1004	|d_sep_sh	|Distributive septic shock|
+|Hypotension	|1005	|d_nsh_sh|	Distributive non-septic shock|
+|Hypotension	|1006|	cardiac _sh	|Cardiac shock|
+|Hypotension	|1007|	hypov_sh_nh	|Hypovolemic non-hemorrhagic shock|
+|Hypotension|	1008|	hypov_sh_h	|Hypovolemic hemorrhagic shock|
+|Hypotension|	1009	|obstructive_sh|	obstructive shock|
+
+Each tab includes 3 header rows, the 1st 2 are a human readable format, the 3rd has unique column names for computer processing. The column names in the following data dictionary refer to the 3rd row.
+|Column label|	Meaning of column label	|Values|
+|------------|-------------------------|------|
+|phecode|	phecodeX v1|	LL_### to LL_###.###|
+|phecode_string|	phecode label	|text string|
+|l_mt	|Mapping type for literature term to phecode| 	See mapping type table|
+|ltid|	Literature term ID	|5 digit number (10001-99999)|
+|l_term	|Literature term|	text string|
+|cn_pc-classification#|	Positive association from condition/classification to phecode|	See cn_pc association type codes|
+|pc_cn_classification#|	Positive association from phecode to classification/condition|	See pc_cn association type codes|
+Note: last two columns are paired and repeat for each classification of the condition
+
+ 
+IV – htn_vddx and hotn_vddx tabs (VDDxKB association detail)
+For each condition, the VDDxKB section structures the associations by diagnoses representing the condition, then by direction of the association (from condition to phecode (cn_pc), or the reverse (pc_cn)), and then by link type (LT) and frequency/evoking strength (FE). Manifestations of the association are represented alongside.
+
+Diagnoses representing the condition
+|Condition	|cxid	|Diagnosis name|
+|----------|-----|--------------|
+|Hypertension|	10157|	Essential hypertension|
+|Hypertension|10158|	Malignant hypertension|
+|Hypotension|	10425|	Hypovolemic shock|
+|Hypotension	|10474|	Cardiogenic shock|
+|Hypotension	|10475|	Pyrogenic shock|
+|Hypotension|	10505|	Heat exhaution|
+
+Manifestations related to the conditions
+|Condition|	mxid	|Short name|	Expansion|
+|---------|-----|----------|-----------|
+|Hypertension|	21264	|DBP 95-125|   |	
+|Hypertension|	21265|	DBP >125|	    |
+|Hypertension	|21302	| PP inc|	Increased Pulse pressure|
+|Hypotension|	21303|	PP narrow	|Narrow pulse pressure|
+|Hypotension|	21268|	Orthostatic|	Orthostatic drop on Physical Exam|
+|Hypotension|	21270|	SBP 90-110	|
+|Hypotension	|21271	|SBP <90	|     |
+|Hypotension|	23387	|DBP <60	|   |
+|Hypertension	|20431	|Exacerbation|	Hx of recent exacerbation of Htn|
+|Hypertension	|21640	|Abrupt onset|	Hx of abrupt onset of Htn|
+|Hypertension|	23454	|Resistant to rx|	Htn resistant to treatment|
+|Hypertension|	21269|	Paroxysmal|	Paroxysmal hypertension|
+|Hypertension|	23110|	SBP arms > legs|     |	
+|Both|	20229|	Bradycardia	|
+|Both|	21587	Tachycardia|	  |
+|Both|	20102	|Age 16-25|	 |
+|Both	|20103	|Age 26-55|	   |
+|Both|	20104	|Age >55|	   |
+|Both	|21417	|Birth female	|    |
+|Both	|21418|	Birth male|      |	
+
+Each tab includes 3 header rows, the 1st 4 are a human readable format, the 5th has unique column names for computer processing. The column names in the following data dictionary refer to the 3rd row.
+|#	Column| label|	Meaning of column label	|Values|
+|-------|-------|------------------------|-------|
+|1|	phecode|	phecodeX v1|	LL_### to LL_###.###|
+|2|	phecode_string|	phecode label	|text string|
+|3|	v_mt|	Mapping type for diagnosis name to phecode	|See mapping type table|
+|4|	dxid|	Diagnosis ID #	|5 digit number (10000-19999)|
+|5|	dxname|	Diagnosis name	|text string|
+|6|	p|	Prevalence |	1-5|
+|7|	cn_pc_cxid_fe	|Frequency & evoking strength of cxid for dxid (and by map to phecode)|	2 digit number, 1st is frequency (0-5), 2nd is evoking strength(0-5)|
+|8|	cn_pc_cxid_lt	|Link type of cxid for dxid (and by map to phecode)	|Letter (A=cause, D=risk fx, E=system)|
+|9|	pc_cn_cxid_fe|	Frequency & evoking strength of dxid (and by map to phecode) for cxid|	2 digit number, 1st is frequency (0-5), 2nd is evoking strength(0-5)|
+|10|	pc_cn_cxid_lt	|Link type of dxid (and by map to phecode) for cxid|	Letter (A=cause, D=risk fx, E=system)|
+|11|	Xmxid_fe|	Frequency & evoking strength of mxid for dxid (and by map to phecode)|	2 digit number, 1st is frequency (0-5), 2nd is evoking strength(0-5)|
+Note: lines 7-10 repeat for each cxid related to the condition
+            Line 11 repeats for each mxid related to the condition
+
+
